@@ -11,9 +11,17 @@ Paperbot is designed to be user-friendly and easy to deploy. The Streamlit inter
 The application has been deployed on Amazon EC2, making it accessible online for testing and use. By leveraging the power of cloud computing, Paperbot is capable of handling multiple users simultaneously while maintaining performance and response accuracy. This deployment in a scalable environment like Amazon EC2 ensures that the application can be used in various real-world scenarios, from customer support chatbots to educational tools.
 
 Overall, Paperbot demonstrates how modern NLP techniques can be applied to create interactive and intelligent applications. Its ability to chat with websites opens up new possibilities for how we interact with online content, making it a valuable tool for both developers and users.
-<img width="1440" alt="pic2" src="https://github.com/user-attachments/assets/fbbf3578-6ed5-4902-9c28-488a0fef0a94">
-<img width="1440" alt="pic1" src="https://github.com/user-attachments/assets/f98d12ae-3fc8-4756-a4e2-208229dcd389">
+
 Flowchart 
 ![flowchart](https://github.com/user-attachments/assets/fbea9218-c553-4ed7-8727-77f193849dcb)
+
 ![Home](https://github.com/user-attachments/assets/e6d1ba77-8df1-4f60-ac53-447621f7e98c)
+
+<img width="1440" alt="pic1" src="https://github.com/user-attachments/assets/f98d12ae-3fc8-4756-a4e2-208229dcd389">
+
+
+<img width="1440" alt="pic2" src="https://github.com/user-attachments/assets/fbbf3578-6ed5-4902-9c28-488a0fef0a94">
+
+
+
 
