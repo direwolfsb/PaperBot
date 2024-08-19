@@ -52,7 +52,7 @@ def get_vectorstore_from_url(url):
 
 # Function to create a context-aware retriever chain
 def get_context_retriever_chain(vector_store):
-    llm = ChatOpenAI()  # Initialize the language model
+    llm = ChatOpenAI(openai_api_key=api_key)  # Initialize the language model
     
     # Use the vector store as a retriever
     retriever = vector_store.as_retriever()
@@ -71,7 +71,7 @@ def get_context_retriever_chain(vector_store):
 
 # Function to create a conversational RAG chain
 def get_conversational_rag_chain(retriever_chain):
-    llm = ChatOpenAI()  # Initialize the language model
+    llm = ChatOpenAI(openai_api_key=api_key)  # Initialize the language model
     
     # Define the prompt template for answering user questions based on retrieved context
     prompt = ChatPromptTemplate.from_messages([
