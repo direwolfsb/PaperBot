@@ -1,4 +1,4 @@
-Here's the updated README with the site link added in the overview section:
+
 
 # Paperbot: Chat with Websites
 
