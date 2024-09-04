@@ -1,7 +1,7 @@
 
 
 # Paperbot: Chat with Websites
-
+<img src="https://github.com/user-attachments/assets/e6d1ba77-8df1-4f60-ac53-447621f7e98c" width="500"/>
 ## Overview
 
 Paperbot is an innovative interactive application that allows users to chat with websites using a conversational interface. By leveraging the power of Streamlit and OpenAI's language model, Paperbot provides intelligent, context-aware responses based on content extracted from specified websites. The primary objective is to create a seamless user experience where questions related to a website's content are answered accurately and meaningfully, mimicking a natural conversation.
@@ -132,15 +132,25 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 This README provides an overview of the Paperbot project, including installation instructions, usage guidelines, and details on how the application works. For any further questions or support, feel free to open an issue or contact the repository maintainers.
 
-Flowchart :
-![flowchart](https://github.com/user-attachments/assets/fbea9218-c553-4ed7-8727-77f193849dcb)
+## Flowchart 
+<img src="https://github.com/user-attachments/assets/fbea9218-c553-4ed7-8727-77f193849dcb" width="777"/>
 
-![Home](https://github.com/user-attachments/assets/e6d1ba77-8df1-4f60-ac53-447621f7e98c)
+## Demo
+<img src="https://github.com/user-attachments/assets/f98d12ae-3fc8-4756-a4e2-208229dcd389" width="777"/>
 
-<img width="1440" alt="pic1" src="https://github.com/user-attachments/assets/f98d12ae-3fc8-4756-a4e2-208229dcd389">
+<img src="https://github.com/user-attachments/assets/fbbf3578-6ed5-4902-9c28-488a0fef0a94" width="777"/>
 
+## Live Demo
 
-<img width="1440" alt="pic2" src="https://github.com/user-attachments/assets/fbbf3578-6ed5-4902-9c28-488a0fef0a94">
+Check out a live demo of **Paperbot** in action by watching the following video: https://drive.google.com/file/d/1ypXIluU81N2RROo3IcSk6yM54khRxaJW/view?usp=drive_link
+
+*Click the image above to watch the full demo.*
+
+In the video, you'll see:
+- How Paperbot fetches and analyzes research papers.
+- The interface for searching and filtering papers.
+- Insights and summarization features powered by AI.
+- An overview of the Paperbot’s functionalities for researchers.
 
 
 
