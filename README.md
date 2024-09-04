@@ -2,6 +2,8 @@
 
 # Paperbot: Chat with Websites
 <img src="https://github.com/user-attachments/assets/e6d1ba77-8df1-4f60-ac53-447621f7e98c" width="500"/>
+
+
 ## Overview
 
 Paperbot is an innovative interactive application that allows users to chat with websites using a conversational interface. By leveraging the power of Streamlit and OpenAI's language model, Paperbot provides intelligent, context-aware responses based on content extracted from specified websites. The primary objective is to create a seamless user experience where questions related to a website's content are answered accurately and meaningfully, mimicking a natural conversation.
